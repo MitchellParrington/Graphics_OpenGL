@@ -1,1 +1,3 @@
-# Graphics_OpenGL
+## Graphics_OpenGL
+
+Assortment of OpenGL graphics ventures...
